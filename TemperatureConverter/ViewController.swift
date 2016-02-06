@@ -9,7 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+//commneting
     @IBOutlet var switchTemp: UISegmentedControl!
     @IBOutlet var resultLabel: UILabel!
     @IBOutlet var temperatureTextField: UITextField!
